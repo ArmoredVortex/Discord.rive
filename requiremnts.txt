@@ -1,0 +1,6 @@
+dotenv
+discord.py
+rivescript
+os
+pathlib
+distutils

@@ -1,0 +1,16 @@
+! version = 2.0
+
+!sub hi = hello
+
++ hello
+- Hello !!
+- Nice to see You !
+- Hi There !
+
++ how [are] you
+- I am Good
+- Good as Always
+
+*
+- I don't quite understand what you said
+

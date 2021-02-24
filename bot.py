@@ -32,7 +32,7 @@ async def on_message(message):
     if message.channel.id != 796275181555286026:
         return
     if message.author.id == 722814184395374644:
-        await message.channel.send("Haha Noob! I don't wanna talk to you")
+        await message.channel.send(" <@722814184395374644> will you shut up man ?")
         return
     else:
         reply = rs.reply("localuser", content)
